@@ -68,6 +68,5 @@ Clients: South Korea, USA, Vietnam | Scale: **10M+ downloads**
 ## Contact
 **Email:** phamngoctoan202111@gmail.com  
 **Phone:** 0372824461  
-**LinkedIn:** [linkedin.com/in/toan-pham-ngoc111202](www.linkedin.com/in/toan-pham-ngoc111202
-)  
+**LinkedIn:** [linkedin.com/in/toan-pham-ngoc111202](www.linkedin.com/in/toan-pham-ngoc111202)  
 **GitHub:** [github.com/phamngoctoan111202](https://github.com/phamngoctoan111202)
